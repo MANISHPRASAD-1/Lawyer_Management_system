@@ -1,1 +1,1 @@
-# Lawyer_Managment_system
+# Lawer_Managment_System
